@@ -58,4 +58,3 @@ frame.pack()
 
 # afficher fenetre
 fenetre.mainloop()
-fenetre2.mainloop()
